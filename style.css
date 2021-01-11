@@ -1,0 +1,13 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+#sur{
+   margin-top:10%;
+}
+#hello{
+height:40px;
+width: 20%; 
+background-color: orange;
+position: relative;
+}
